@@ -1,0 +1,30 @@
+# Binaries
+bot_ticket
+bot_ticket.exe
+bot_test
+bot_vps
+*.exe
+*.out
+*.app
+
+# Sensitive Data / User Session
+cookies.json
+*.pem
+*.key
+
+# Go workspace
+vendor/
+go.work
+go.work.sum
+
+# IDEs and Text Editors
+.idea/
+.vscode/
+*.swp
+*.swo
+.DS_Store
+
+# Temporary and build files
+tmp/
+build/
+bin/
