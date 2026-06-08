@@ -3,6 +3,7 @@ bot_ticket
 bot_ticket.exe
 bot_test
 bot_vps
+war_ticket
 *.exe
 *.out
 *.app
